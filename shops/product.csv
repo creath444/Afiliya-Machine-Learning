@@ -1,0 +1,141 @@
+product_id,shop_id,product_name, product_price ,product_image,product_stock,product_ctg,weight,size,description,Rating,Timestamp
+1,Toko batik Bali,Batik Bali," 200,000 ",0.jpg,200,Bali,0,"S,M,L,XL",Batik Bali,2,1369699200
+2,Toko batik Bali,Batik Bali," 230,000 ",1.jpg,50,Bali,0,"S,M,L,XL",Batik Bali,3,1355443200
+3,Toko batik Bali,Batik Bali," 180,000 ",2.jpg,100,Bali,0,"S,M,L,XL",Batik Bali,5,1404691200
+4,Toko batik Bali,Batik Bali," 150,000 ",3.jpg,20,Bali,0,"S,M,L,XL",Batik Bali,2,1382572800
+5,Toko batik Bali,Batik Bali," 200,000 ",4.jpg,30,Bali,0,"S,M,L,XL",Batik Bali,3,1274227200
+6,Toko batik Bali,Batik Bali," 300,000 ",5.jpg,25,Bali,0,"S,M,L,XL",Batik Bali,5,1404518400
+7,Toko batik Bali,Batik Bali," 225,000 ",6.jpg,30,Bali,0,"S,M,L,XL",Batik Bali,5,1371945600
+8,Toko batik Bali,Batik Bali," 400,000 ",7.jpg,90,Bali,0,"S,M,L,XL",Batik Bali,4,1373068800
+9,Toko batik Bali,Batik Bali," 300,000 ",8.jpg,230,Bali,0,"S,M,L,XL",Batik Bali,4,1401840000
+10,Toko batik Bali,Batik Bali," 200,000 ",9.jpg,10,Bali,0,"S,M,L,XL",Batik Bali,2,1389052800
+11,Toko batik Betawi,Batik Betawi," 300,000 ",0.jpg,50,Jakarta,0,"S,M,L,XL",Batik Betawi,2,1372032000
+12,Toko batik Betawi,Batik Betawi," 225,000 ",1.jpg,20,Jakarta,0,"S,M,L,XL",Batik Betawi,3,1378252800
+13,Toko batik Betawi,Batik Betawi," 400,000 ",2.jpg,30,Jakarta,0,"S,M,L,XL",Batik Betawi,3,1372118400
+14,Toko batik Betawi,Batik Betawi," 300,000 ",3.jpg,25,Jakarta,0,"S,M,L,XL",Batik Betawi,2,1371686400
+15,Toko batik Betawi,Batik Betawi," 200,000 ",4.jpg,30,Jakarta,0,"S,M,L,XL",Batik Betawi,2,1372118400
+16,Toko batik Betawi,Batik Betawi," 180,000 ",5.jpg,90,Jakarta,0,"S,M,L,XL",Batik Betawi,4,1373414400
+17,Toko batik Betawi,Batik Betawi," 150,000 ",6.jpg,230,Jakarta,0,"S,M,L,XL",Batik Betawi,5,1372896000
+18,Toko batik Betawi,Batik Betawi," 200,000 ",7.jpg,10,Jakarta,0,"S,M,L,XL",Batik Betawi,3,1372896000
+19,Toko batik Betawi,Batik Betawi," 300,000 ",8.jpg,50,Jakarta,0,"S,M,L,XL",Batik Betawi,1,1373068800
+20,Toko batik Betawi,Batik Betawi," 225,000 ",9.jpg,50,Jakarta,0,"S,M,L,XL",Batik Betawi,4,1372291200
+21,Toko batik Papua,Batik Cendrawasih," 400,000 ",0.jpg,20,Papua,0,"S,M,L,XL",Batik Cendrawasih,5,1372291200
+22,Toko batik Papua,Batik Cendrawasih," 225,000 ",1.jpg,30,Papua,0,"S,M,L,XL",Batik Cendrawasih,2,1372896000
+23,Toko batik Papua,Batik Cendrawasih," 400,000 ",2.jpg,25,Papua,0,"S,M,L,XL",Batik Cendrawasih,2,1372896000
+24,Toko batik Papua,Batik Cendrawasih," 300,000 ",3.jpg,30,Papua,0,"S,M,L,XL",Batik Cendrawasih,3,1378425600
+25,Toko batik Papua,Batik Cendrawasih," 200,000 ",4.jpg,200,Papua,0,"S,M,L,XL",Batik Cendrawasih,1,1375488000
+26,Toko batik Papua,Batik Cendrawasih," 300,000 ",5.jpg,50,Papua,0,"S,M,L,XL",Batik Cendrawasih,1,1372896000
+27,Toko batik Papua,Batik Cendrawasih," 400,000 ",6.jpg,100,Papua,0,"S,M,L,XL",Batik Cendrawasih,5,1405296000
+28,Toko batik Papua,Batik Cendrawasih," 300,000 ",7.jpg,20,Papua,0,"S,M,L,XL",Batik Cendrawasih,4,1392076800
+29,Toko batik Papua,Batik Cendrawasih," 200,000 ",8.jpg,30,Papua,0,"S,M,L,XL",Batik Cendrawasih,3,1388707200
+30,Toko batik Papua,Batik Cendrawasih," 180,000 ",9.jpg,25,Papua,0,"S,M,L,XL",Batik Cendrawasih,5,1394928000
+31,Toko batik Kalimantan,Batik Dayak," 150,000 ",0.jpg,30,Kalimantan,0,"S,M,L,XL",Batik Dayak,2,1389657600
+32,Toko batik Kalimantan,Batik Dayak," 200,000 ",1.jpg,30,Kalimantan,0,"S,M,L,XL",Batik Dayak,5,1383523200
+33,Toko batik Kalimantan,Batik Dayak," 300,000 ",2.jpg,90,Kalimantan,0,"S,M,L,XL",Batik Dayak,4,1392681600
+34,Toko batik Kalimantan,Batik Dayak," 300,000 ",3.jpg,230,Kalimantan,0,"S,M,L,XL",Batik Dayak,1,1392422400
+35,Toko batik Kalimantan,Batik Dayak," 225,000 ",4.jpg,10,Kalimantan,0,"S,M,L,XL",Batik Dayak,4,1402790400
+36,Toko batik Kalimantan,Batik Dayak," 400,000 ",5.jpg,50,Kalimantan,0,"S,M,L,XL",Batik Dayak,4,1396742400
+37,Toko batik Kalimantan,Batik Dayak," 300,000 ",6.jpg,20,Kalimantan,0,"S,M,L,XL",Batik Dayak,1,1385251200
+38,Toko batik Kalimantan,Batik Dayak," 200,000 ",7.jpg,30,Kalimantan,0,"S,M,L,XL",Batik Dayak,3,1397606400
+39,Toko batik Kalimantan,Batik Dayak," 300,000 ",8.jpg,25,Kalimantan,0,"S,M,L,XL",Batik Dayak,5,1405036800
+40,Toko batik Kalimantan,Batik Dayak," 200,000 ",9.jpg,30,Kalimantan,0,"S,M,L,XL",Batik Dayak,4,1399680000
+41,Toko batik kabupaten Kulon progo,Batik Geblek Renteng," 230,000 ",0.jpg,90,Yogyakarta,0,"S,M,L,XL",Batik Geblek Renteng,1,1395187200
+42,Toko batik kabupaten Kulon progo,Batik Geblek Renteng," 180,000 ",1.jpg,230,Yogyakarta,0,"S,M,L,XL",Batik Geblek Renteng,2,1397779200
+43,Toko batik kabupaten Kulon progo,Batik Geblek Renteng," 150,000 ",2.jpg,10,Yogyakarta,0,"S,M,L,XL",Batik Geblek Renteng,5,1383177600
+44,Toko batik kabupaten Kulon progo,Batik Geblek Renteng," 200,000 ",3.jpg,50,Yogyakarta,0,"S,M,L,XL",Batik Geblek Renteng,1,1384992000
+45,Toko batik kabupaten Kulon progo,Batik Geblek Renteng," 300,000 ",4.jpg,50,Yogyakarta,0,"S,M,L,XL",Batik Geblek Renteng,5,1386028800
+46,Toko batik kabupaten Kulon progo,Batik Geblek Renteng," 225,000 ",5.jpg,20,Yogyakarta,0,"S,M,L,XL",Batik Geblek Renteng,3,1391558400
+47,Toko batik kabupaten Kulon progo,Batik Geblek Renteng," 400,000 ",6.jpg,30,Yogyakarta,0,"S,M,L,XL",Batik Geblek Renteng,5,1383004800
+48,Toko batik kabupaten Kulon progo,Batik Geblek Renteng," 300,000 ",7.jpg,25,Yogyakarta,0,"S,M,L,XL",Batik Geblek Renteng,2,1383177600
+49,Toko batik kabupaten Kulon progo,Batik Geblek Renteng," 200,000 ",8.jpg,30,Yogyakarta,0,"S,M,L,XL",Batik Geblek Renteng,4,1391558400
+50,Toko batik kabupaten Kulon progo,Batik Geblek Renteng," 300,000 ",9.jpg,200,Yogyakarta,0,"S,M,L,XL",Batik Geblek Renteng,1,1383004800
+51,Toko batik pontianak,Batik insang," 225,000 ",0.jpg,50,Pontianak,0,"S,M,L,XL",Batik insang,2,1384128000
+52,Toko batik pontianak,Batik insang," 400,000 ",1.jpg,100,Pontianak,0,"S,M,L,XL",Batik insang,5,1384732800
+53,Toko batik pontianak,Batik insang," 300,000 ",2.jpg,20,Pontianak,0,"S,M,L,XL",Batik insang,5,1384992000
+54,Toko batik pontianak,Batik insang," 200,000 ",3.jpg,30,Pontianak,0,"S,M,L,XL",Batik insang,3,1384992000
+55,Toko batik pontianak,Batik insang," 180,000 ",4.jpg,25,Pontianak,0,"S,M,L,XL",Batik insang,3,1385856000
+56,Toko batik pontianak,Batik insang," 150,000 ",5.jpg,30,Pontianak,0,"S,M,L,XL",Batik insang,2,1384992000
+57,Toko batik pontianak,Batik insang," 200,000 ",6.jpg,90,Pontianak,0,"S,M,L,XL",Batik insang,5,1393891200
+58,Toko batik pontianak,Batik insang," 300,000 ",7.jpg,230,Pontianak,0,"S,M,L,XL",Batik insang,1,1385596800
+59,Toko batik pontianak,Batik insang," 225,000 ",8.jpg,10,Pontianak,0,"S,M,L,XL",Batik insang,3,1384992000
+60,Toko batik pontianak,Batik insang," 400,000 ",9.jpg,50,Pontianak,0,"S,M,L,XL",Batik insang,2,1391817600
+61,Toko batik yogyakarta,Batik Kawung ," 225,000 ",0.jpg,50,Yogyakarta,0,"S,M,L,XL",Batik Kawung ,4,1391558400
+62,Toko batik yogyakarta,Batik Kawung ," 400,000 ",1.jpg,20,Yogyakarta,0,"S,M,L,XL",Batik Kawung ,4,1384992000
+63,Toko batik yogyakarta,Batik Kawung ," 300,000 ",2.jpg,30,Yogyakarta,0,"S,M,L,XL",Batik Kawung ,5,1389830400
+64,Toko batik yogyakarta,Batik Kawung ," 200,000 ",3.jpg,200,Yogyakarta,0,"S,M,L,XL",Batik Kawung ,5,1385769600
+65,Toko batik yogyakarta,Batik Kawung ," 300,000 ",4.jpg,50,Yogyakarta,0,"S,M,L,XL",Batik Kawung ,5,1383868800
+66,Toko batik yogyakarta,Batik Kawung ," 400,000 ",5.jpg,100,Yogyakarta,0,"S,M,L,XL",Batik Kawung ,3,1384992000
+67,Toko batik yogyakarta,Batik Kawung ," 300,000 ",6.jpg,20,Yogyakarta,0,"S,M,L,XL",Batik Kawung ,1,1384992000
+68,Toko batik yogyakarta,Batik Kawung ," 200,000 ",7.jpg,30,Yogyakarta,0,"S,M,L,XL",Batik Kawung ,3,1388188800
+69,Toko batik yogyakarta,Batik Kawung ," 180,000 ",8.jpg,25,Yogyakarta,0,"S,M,L,XL",Batik Kawung ,4,1384992000
+70,Toko batik yogyakarta,Batik Kawung ," 150,000 ",9.jpg,30,Yogyakarta,0,"S,M,L,XL",Batik Kawung ,1,1386201600
+71,Toko batik Jateng,Batik lasem," 200,000 ",0.jpg,90,Jawa Tengah,0,"S,M,L,XL",Batik lasem,4,1386201600
+72,Toko batik Jateng,Batik lasem," 300,000 ",1.jpg,230,Jawa Tengah,0,"S,M,L,XL",Batik lasem,4,1384732800
+73,Toko batik Jateng,Batik lasem," 300,000 ",2.jpg,10,Jawa Tengah,0,"S,M,L,XL",Batik lasem,4,1384992000
+74,Toko batik Jateng,Batik lasem," 225,000 ",3.jpg,50,Jawa Tengah,0,"S,M,L,XL",Batik lasem,2,1385856000
+75,Toko batik Jateng,Batik lasem," 400,000 ",4.jpg,20,Jawa Tengah,0,"S,M,L,XL",Batik lasem,5,1384992000
+76,Toko batik Jateng,Batik lasem," 300,000 ",5.jpg,30,Jawa Tengah,0,"S,M,L,XL",Batik lasem,3,1384992000
+77,Toko batik Jateng,Batik lasem," 200,000 ",6.jpg,25,Jawa Tengah,0,"S,M,L,XL",Batik lasem,4,1388102400
+78,Toko batik Jateng,Batik lasem," 300,000 ",7.jpg,30,Jawa Tengah,0,"S,M,L,XL",Batik lasem,1,1385424000
+79,Toko batik Jateng,Batik lasem," 180,000 ",8.jpg,90,Jawa Tengah,0,"S,M,L,XL",Batik lasem,3,1384992000
+80,Toko batik Jateng,Batik lasem," 150,000 ",9.jpg,230,Jawa Tengah,0,"S,M,L,XL",Batik lasem,2,1385424000
+81,Toko batik Cirebon,Batik megamendung," 200,000 ",0.jpg,10,Jawa Barat,0,"S,M,L,XL",Batik megamendung,1,1388620800
+82,Toko batik Cirebon,Batik megamendung," 300,000 ",1.jpg,50,Jawa Barat,0,"S,M,L,XL",Batik megamendung,1,1388016000
+83,Toko batik Cirebon,Batik megamendung," 225,000 ",2.jpg,50,Jawa Barat,0,"S,M,L,XL",Batik megamendung,1,1404172800
+84,Toko batik Cirebon,Batik megamendung," 400,000 ",3.jpg,20,Jawa Barat,0,"S,M,L,XL",Batik megamendung,4,1390608000
+85,Toko batik Cirebon,Batik megamendung," 225,000 ",4.jpg,30,Jawa Barat,0,"S,M,L,XL",Batik megamendung,1,1393286400
+86,Toko batik Cirebon,Batik megamendung," 400,000 ",5.jpg,25,Jawa Barat,0,"S,M,L,XL",Batik megamendung,4,1385596800
+87,Toko batik Cirebon,Batik megamendung," 300,000 ",6.jpg,30,Jawa Barat,0,"S,M,L,XL",Batik megamendung,1,1386028800
+88,Toko batik Cirebon,Batik megamendung," 200,000 ",7.jpg,200,Jawa Barat,0,"S,M,L,XL",Batik megamendung,1,1385683200
+89,Toko batik Cirebon,Batik megamendung," 300,000 ",8.jpg,50,Jawa Barat,0,"S,M,L,XL",Batik megamendung,4,1392076800
+90,Toko batik Cirebon,Batik megamendung," 400,000 ",9.jpg,100,Jawa Barat,0,"S,M,L,XL",Batik megamendung,2,1384992000
+91,Toko batik maluku,Batik pala," 300,000 ",0.jpg,20,Maluku,0,"S,M,L,XL",Batik pala,2,1394755200
+92,Toko batik maluku,Batik pala," 200,000 ",1.jpg,30,Maluku,0,"S,M,L,XL",Batik pala,2,1391385600
+93,Toko batik maluku,Batik pala," 180,000 ",2.jpg,25,Maluku,0,"S,M,L,XL",Batik pala,3,1386028800
+94,Toko batik maluku,Batik pala," 150,000 ",3.jpg,30,Maluku,0,"S,M,L,XL",Batik pala,5,1385424000
+95,Toko batik maluku,Batik pala," 200,000 ",4.jpg,30,Maluku,0,"S,M,L,XL",Batik pala,1,1385424000
+96,Toko batik maluku,Batik pala," 300,000 ",5.jpg,90,Maluku,0,"S,M,L,XL",Batik pala,3,1385424000
+97,Toko batik maluku,Batik pala," 300,000 ",6.jpg,230,Maluku,0,"S,M,L,XL",Batik pala,2,1385424000
+98,Toko batik maluku,Batik pala," 225,000 ",7.jpg,10,Maluku,0,"S,M,L,XL",Batik pala,1,1385856000
+99,Toko batik maluku,Batik pala," 400,000 ",8.jpg,50,Maluku,0,"S,M,L,XL",Batik pala,3,1385596800
+100,Toko batik maluku,Batik pala," 300,000 ",9.jpg,20,Maluku,,"S,M,L,XL",Batik pala,1,
+101,Toko batik solo dan yogyakarta,Batik parang," 200,000 ",0.jpg,30,Yogyakarta,,"S,M,L,XL",Batik parang,1,
+102,Toko batik solo dan yogyakarta,Batik parang," 300,000 ",1.jpg,25,Yogyakarta,,"S,M,L,XL",Batik parang,1,
+103,Toko batik solo dan yogyakarta,Batik parang," 200,000 ",2.jpg,30,Yogyakarta,,"S,M,L,XL",Batik parang,3,
+104,Toko batik solo dan yogyakarta,Batik parang," 230,000 ",3.jpg,90,Yogyakarta,,"S,M,L,XL",Batik parang,3,
+105,Toko batik solo dan yogyakarta,Batik parang," 180,000 ",4.jpg,230,Yogyakarta,,"S,M,L,XL",Batik parang,5,
+106,Toko batik solo dan yogyakarta,Batik parang," 150,000 ",5.jpg,10,Yogyakarta,,"S,M,L,XL",Batik parang,3,
+107,Toko batik solo dan yogyakarta,Batik parang," 200,000 ",6.jpg,50,Yogyakarta,,"S,M,L,XL",Batik parang,5,
+108,Toko batik solo dan yogyakarta,Batik parang," 300,000 ",7.jpg,50,Yogyakarta,,"S,M,L,XL",Batik parang,5,
+109,Toko batik solo dan yogyakarta,Batik parang," 225,000 ",8.jpg,20,Yogyakarta,,"S,M,L,XL",Batik parang,5,
+110,Toko batik solo dan yogyakarta,Batik parang," 400,000 ",9.jpg,30,Yogyakarta,,"S,M,L,XL",Batik parang,1,
+111,Toko batik Bali,Batik poleng," 300,000 ",0.jpg,25,Bali,,"S,M,L,XL",Batik poleng,4,
+112,Toko batik Bali,Batik poleng," 200,000 ",1.jpg,30,Bali,,"S,M,L,XL",Batik poleng,2,
+113,Toko batik Bali,Batik poleng," 300,000 ",2.jpg,200,Bali,,"S,M,L,XL",Batik poleng,3,
+114,Toko batik Bali,Batik poleng," 225,000 ",3.jpg,50,Bali,,"S,M,L,XL",Batik poleng,4,
+115,Toko batik Bali,Batik poleng," 400,000 ",4.jpg,100,Bali,,"S,M,L,XL",Batik poleng,1,
+116,Toko batik Bali,Batik poleng," 300,000 ",5.jpg,20,Bali,,"S,M,L,XL",Batik poleng,2,
+117,Toko batik Bali,Batik poleng," 200,000 ",6.jpg,30,Bali,,"S,M,L,XL",Batik poleng,3,
+118,Toko batik Bali,Batik poleng," 180,000 ",7.jpg,25,Bali,,"S,M,L,XL",Batik poleng,4,
+119,Toko batik Bali,Batik poleng," 150,000 ",8.jpg,30,Bali,,"S,M,L,XL",Batik poleng,5,
+120,Toko batik Bali,Batik poleng," 200,000 ",9.jpg,90,Bali,,"S,M,L,XL",Batik poleng,3,
+121,Toko batik solo dan yogyakarta,Batik sekar jegad," 300,000 ",0.jpg,230,Yogyakarta,,"S,M,L,XL",Batik sekar jegad,5,
+122,Toko batik solo dan yogyakarta,Batik sekar jegad," 225,000 ",1.jpg,10,Yogyakarta,,"S,M,L,XL",Batik sekar jegad,5,
+123,Toko batik solo dan yogyakarta,Batik sekar jegad," 400,000 ",2.jpg,50,Yogyakarta,,"S,M,L,XL",Batik sekar jegad,1,
+124,Toko batik solo dan yogyakarta,Batik sekar jegad," 225,000 ",3.jpg,50,Yogyakarta,,"S,M,L,XL",Batik sekar jegad,5,
+125,Toko batik solo dan yogyakarta,Batik sekar jegad," 400,000 ",4.jpg,20,Yogyakarta,,"S,M,L,XL",Batik sekar jegad,5,
+126,Toko batik solo dan yogyakarta,Batik sekar jegad," 300,000 ",5.jpg,30,Yogyakarta,,"S,M,L,XL",Batik sekar jegad,2,
+127,Toko batik solo dan yogyakarta,Batik sekar jegad," 200,000 ",6.jpg,50,Yogyakarta,,"S,M,L,XL",Batik sekar jegad,4,
+128,Toko batik solo dan yogyakarta,Batik sekar jegad," 300,000 ",7.jpg,50,Yogyakarta,,"S,M,L,XL",Batik sekar jegad,3,
+129,Toko batik solo dan yogyakarta,Batik sekar jegad," 400,000 ",8.jpg,20,Yogyakarta,,"S,M,L,XL",Batik sekar jegad,3,
+130,Toko batik solo dan yogyakarta,Batik sekar jegad," 300,000 ",9.jpg,30,Yogyakarta,,"S,M,L,XL",Batik sekar jegad,3,
+131,Toko batik yogyakarta,Batik tambal," 200,000 ",0.jpg,25,Yogyakarta,,"S,M,L,XL",Batik tambal,5,
+132,Toko batik yogyakarta,Batik tambal," 180,000 ",1.jpg,30,Yogyakarta,,"S,M,L,XL",Batik tambal,3,
+133,Toko batik yogyakarta,Batik tambal," 150,000 ",2.jpg,200,Yogyakarta,,"S,M,L,XL",Batik tambal,1,
+134,Toko batik yogyakarta,Batik tambal," 200,000 ",3.jpg,50,Yogyakarta,,"S,M,L,XL",Batik tambal,2,
+135,Toko batik yogyakarta,Batik tambal," 300,000 ",4.jpg,100,Yogyakarta,,"S,M,L,XL",Batik tambal,5,
+136,Toko batik yogyakarta,Batik tambal," 300,000 ",5.jpg,20,Yogyakarta,,"S,M,L,XL",Batik tambal,3,
+137,Toko batik yogyakarta,Batik tambal," 225,000 ",6.jpg,30,Yogyakarta,,"S,M,L,XL",Batik tambal,4,
+138,Toko batik yogyakarta,Batik tambal," 400,000 ",7.jpg,25,Yogyakarta,,"S,M,L,XL",Batik tambal,5,
+139,Toko batik yogyakarta,Batik tambal," 300,000 ",8.jpg,30,Yogyakarta,,"S,M,L,XL",Batik tambal,1,
+140,Toko batik yogyakarta,Batik tambal," 200,000 ",9.jpg,20,Yogyakarta,,"S,M,L,XL",Batik tambal,4,
